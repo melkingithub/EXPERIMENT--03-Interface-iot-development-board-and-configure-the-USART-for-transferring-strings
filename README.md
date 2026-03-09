@@ -6,7 +6,7 @@
 
 **ROLL NO:** 212223220056
 
-**DEPARTMENT:**
+**DEPARTMENT:**IT
 
 ## Aim:
 
