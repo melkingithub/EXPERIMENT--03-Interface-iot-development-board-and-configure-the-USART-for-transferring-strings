@@ -134,7 +134,7 @@ PUTCHAR_PROTOTYPE
 ~~~
 
 ## Output screen shots of Serial port utility   :
-<img width="1642" height="801" alt="image" src="https://github.com/user-attachments/assets/6703b765-f474-49a6-bcfc-e2e71cdfacda" />
+<img width="1390" height="828" alt="image" src="https://github.com/user-attachments/assets/4bf66dad-cbeb-42e0-9d31-d4ef44b6ab0f" />
 
 
 
